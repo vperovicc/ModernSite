@@ -3,6 +3,23 @@ I designed a modern website using React.js and Vite, aiming for a dynamic and us
 The dynamic nature of the website is complemented by a user-friendly navbar that simplifies page exploration.
 Whether you're scrolling through various sections or jumping to specific pages, the navbar makes it a breeze to navigate and enjoy the dynamic content. 
 The combination of React.js and Vite ensures not only a visually appealing interface but also efficient performance, making the overall website creation process a seamless and enjoyable experience.
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 ![1](https://github.com/vperovicc/ModernSite/assets/80456478/dabe9d97-dce9-4310-80cd-fe40a2154f5a)
 ![2](https://github.com/vperovicc/ModernSite/assets/80456478/917b55dc-2370-4ee8-8ae4-d21a87cc9a39)
 ![3](https://github.com/vperovicc/ModernSite/assets/80456478/fe2b6b53-6bd1-4e0e-a095-cb6a346dd2fb)
